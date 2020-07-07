@@ -3,6 +3,7 @@
 ***University Project (La Salle URL). Video Game Programming***
 
 **Author: Miguel Ángel Díaz Rodríguez**
+
 **Teacher: Alun Evans**
 
 **Language: C++** 
@@ -10,7 +11,7 @@
 ## Table of Contents
 
 - [Description](#Description)
-- [Course Information](#Course Information)
+- [Course](#Course)
 - [Gameplay](#Gameplay)
 
 ---
@@ -20,7 +21,7 @@ Small prototype created with Visual Studio in the subject of Video Game Programm
 
 ---
 
-## Course Information
+## Course
 
 ### Course Deliverables: 
 1) Week 3 or 4: 3D File Importer (10%) 
