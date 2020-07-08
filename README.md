@@ -59,7 +59,7 @@ Checks input from player
 Moves stuff in the game
 
 ---
-![lll](https://raw.githubusercontent.com/MangelDR/solar-sistem-phong/master/images/1.%20Texture%20only.png)
+
 ## Gameplay
 
 ### Loading 
@@ -72,7 +72,7 @@ Moves stuff in the game
 ![Fighting](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/gameplay.png)
 
 ### Victory
-![Winning](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/winning.png)
+![Winning](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/Winning.png)
 
 
 
