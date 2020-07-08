@@ -12,6 +12,7 @@
 
 - [Description](#Description)
 - [Course](#Course)
+- [Structure](#Structure)
 - [Gameplay](#Gameplay)
 
 ---
@@ -47,18 +48,18 @@ Small prototype created with Visual Studio in the subject of Video Game Programm
 ## Structure
 
 ### Game Looping
-![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.png)
+![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.PNG)
 
 ### Managers
-![managers](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/managers.png)
+![managers](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/managers.PNG)
 
 ### Game Looping
-![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.png)
+![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.PNG)
 
 ### Objects
-![objects](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/objects.png)
+![objects](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/objects.PNG)
 
-![objects](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/mapping%20using%20inheritance.PNG)
+![mapping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/mapping%20using%20inheritance.PNG)
 
 ---
 
