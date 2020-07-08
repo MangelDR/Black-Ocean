@@ -63,16 +63,16 @@ Moves stuff in the game
 ## Gameplay
 
 ### Loading 
-![Loading](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/Loading.png)
+![Loading](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/Loading.png)
 
 ### Menú 
-![Menu](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/Menu.png)
+![Menu](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/Menu.png)
 
 ### Fighting
-![Fighting](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/gameplay.png)
+![Fighting](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/gameplay.png)
 
 ### Victory
-![Winning](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/winning.png)
+![Winning](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/winning.png)
 
 
 
