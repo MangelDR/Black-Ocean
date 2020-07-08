@@ -59,20 +59,20 @@ Checks input from player
 Moves stuff in the game
 
 ---
-
+![Loading](https://raw.githubusercontent.com/MangelDR/solar-sistem-phong/master/images/1.%20Texture%20only.png)
 ## Gameplay
 
 ### Loading 
-
+![Loading](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/Loading.png)
 
 ### Menú 
-
+![Menu](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/Menu.png)
 
 ### Fighting
-
+![Fighting](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/gameplay.png)
 
 ### Victory
-
+![Winning](https://raw.githubusercontent.com/MangelDR/Black-Ocean/blob/master/images/winning.png)
 
 
 
