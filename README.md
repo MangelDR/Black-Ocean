@@ -59,7 +59,7 @@ Checks input from player
 Moves stuff in the game
 
 ---
-![Loading](https://raw.githubusercontent.com/MangelDR/solar-sistem-phong/master/images/1.%20Texture%20only.png)
+![lll](https://raw.githubusercontent.com/MangelDR/solar-sistem-phong/master/images/1.%20Texture%20only.png)
 ## Gameplay
 
 ### Loading 
