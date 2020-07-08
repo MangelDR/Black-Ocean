@@ -44,19 +44,21 @@ Small prototype created with Visual Studio in the subject of Video Game Programm
 13. Final Presentation
 
 ---
+## Structure
 
-Gane::init()
-here we initialise out game: 
-* create a canera 
-* load a shader
-* load a mesh 
+### Game Looping
+![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.png)
 
-Gane::render()
-Contains all our drawing code
+### Managers
+![managers](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/managers.png)
 
-Game::update()
-Checks input from player
-Moves stuff in the game
+### Game Looping
+![Looping](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/looping.png)
+
+### Objects
+![objects](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/objects.png)
+
+![objects](https://raw.githubusercontent.com/MangelDR/Black-Ocean/master/images/mapping%20using%20inheritance.PNG)
 
 ---
 
